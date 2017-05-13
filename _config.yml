@@ -12,7 +12,7 @@ title:            profanadores
 tagline:          registro de desenvolvimento
 description:      "um metroidvania livremente baseado na obra de H. P. Lovecraft"
 url:              https://macalango.github.io/
-baseurl:          /devlog/
+baseurl:          /profanadores/
 
 author:
   name:           'Laureano Macalango'
