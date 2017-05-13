@@ -1,2 +1,2 @@
-https://macalango.github.io/devlog/
+https://macalango.github.io/profanadores/
 profaners devlog
