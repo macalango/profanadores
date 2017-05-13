@@ -22,6 +22,3 @@ paginate:         5
 
 # Custom vars
 version:          1.0.1
-
-github:           https://github.com/macalango
-  repo:           macalango/macalango.github.io
