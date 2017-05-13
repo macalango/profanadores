@@ -8,20 +8,20 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
+title:            PROFANADORES
+tagline:          registro de desenvolvimento
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
 url:              https://macalango.github.io/
 baseurl:          /devlog/
 
 author:
-  name:           'Karlo Espiritu'
-  url:            https://twitter.com/karloespiritu
+  name:           'Laureano Macalango'
+  url:            https://remote.com/macalango
 
 paginate:         5
 
 # Custom vars
 version:          1.0.1
 
-github:
-  repo:           macalango/https://github.com/macalango/devlog
+github:           https://github.com/macalango
+  repo:           /devlog
