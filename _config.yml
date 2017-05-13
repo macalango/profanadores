@@ -24,4 +24,4 @@ paginate:         5
 version:          1.0.1
 
 github:           https://github.com/macalango
-  repo:           https://github.com/macalango/devlog
+  repo:           devlog
