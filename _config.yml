@@ -8,9 +8,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            PROFANADORES
+title:            profanadores
 tagline:          registro de desenvolvimento
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+description:      "um metroidvania livremente baseado na obra de H. P. Lovecraft"
 url:              https://macalango.github.io/
 baseurl:          /devlog/
 
