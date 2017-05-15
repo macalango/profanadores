@@ -15,8 +15,8 @@ Eu realmente não faço a mínima ideia do que eu tô fazendo.
 
 ![mssc]
 
->####<div title="Brasil no steamspy" style="text-align:justify">O Master System Super Compact era o joystick + console _all in one_ que tinha quase meu peso. E vinha com uma antena (!?!)
- </div>
+<blockquote><div title="Brasil no steamspy" style="text-align:justify"><h4>O Master System Super Compact era o joystick + console _all in one_ que tinha quase meu peso. E vinha com uma antena (!?!)</h4>
+</blockquote></div>
 
  <div style="text-align:justify">
  2 - Meu amor pela mídia dos jogos só se amplificou conforme eu crescia e estudava artes, tanto clássicas quanto digitais. Após jogar tudo para o alto e abandonar Teatro para focar em Comunicação Social só ficou mais claro para mim o quanto essa mídia é poderosa e como ela estará muito mais enraizada daqui uns anos. A indústria brasileira existe há décadas e já passou da casa de <a href="https://www.ecommercebrasil.com.br/noticias/industria-de-jogos-eletronicos-um-setor-em-ascensao-no-brasil/" target="_blank" title="Ascensão da Indústria de Jogos no Brasil">bilhão</a> de reais movimentados mesmo sobrevivendo até esse ano</a> sem qualquer tipo de política pública de fomento a produção; a imprensa já é autosuficiente e rentável o bastante para atrair o interesse desde <a href="http://br.ign.com/" target="_blank" title="IGN Brasil">grandes sites gringos</a> até uma praga de <em>"""youtubers""" """gamers"""</em>; e o público que <a href="https://www.redbull.com/br-pt/serie-paralelos-narra-pirataria-de-games-no-brasil" target="_blank">amargou anos</a> sem cuidados adequados, hoje lota game hubs dedicados de grandes empresas que fincaram suas bandeiras no Brasil como a *Blizzard* e a *Ubisoft* e gozam de serviços que democratizaram o acesso aos jogos eletrônicos como a <em>Nuuvem</em> e a <em>Steam</em>. <strong>Ambiente apropriado eu tenho.</strong>
@@ -24,10 +24,13 @@ Eu realmente não faço a mínima ideia do que eu tô fazendo.
 <div style="text-align:justify">
 <p></p>
 ![spybr]
->####E falando em Steam, só perdemos em número de usuários para dois paises com uma quantidade monstruosa de pessoas e um que é basicamente o inventor dos jogos eletrônicos modernos (ah, e casa da Steam, claro). Somos 5% de todo o sistema. A China é 7. Os EUA, 15%.</h6>
+<blockquote><h4>Falando em Steam, só perdemos em número de usuários para dois paises com uma quantidade monstruosa de pessoas e um que é basicamente o inventor dos jogos eletrônicos modernos (ah, e casa da Steam, claro). Somos 5% de todo o sistema. A China é 7. Os EUA, 15%.</h4>
+</blockquote>
 </div>
 
-<div style="text-align:justify">3 - Faz tempo que ultrapassei o limite de só demonstrar meu amor pelos jogos apenas jogando. Escrevi pro <a href="http://jogazera.com.br" target="_blank">Jogazera</a> em 2015 e tô com projetos pra voltar esse ano. Escrevi pro Joguindie e sempre que posso tô lá dando pitaco e traduzindo conteúdo no meu Medium. lorem </div>
+<div style="text-align:justify">
+3 - Faz tempo que ultrapassei o limite de só demonstrar meu amor pelos jogos apenas jogando. Escrevi pro <a href="http://jogazera.com.br" target="_blank">Jogazera</a> em 2015 e tô com projetos pra voltar esse ano. Escrevi pro Joguindie e sempre que posso tô lá dando pitaco e traduzindo conteúdo no meu Medium.
+</div>
 
 4 - Dez anos depois do meu primeiro computador tô na Global Game Jam, com três amigos
 
