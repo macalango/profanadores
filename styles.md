@@ -1,4 +1,9 @@
 ---
+<<<<<<< HEAD
+=======
+layout: page
+title: Theme Styles
+>>>>>>> parent of e3d7af3... revert
 ---
 
 ## Full Style Test
