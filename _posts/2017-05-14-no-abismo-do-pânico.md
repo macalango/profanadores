@@ -1,8 +1,11 @@
 ---
+title: No abismo do Pânico
+date: 2017-05-14 00:00:00 Z
+categories:
+- ddb,
+- devaneios
 layout: post
 comments: true
-title: No abismo do Pânico
-categories: ddb, devaneios
 ---
 
 ### A SOTURNA CAIXA DE PÍFIAS MOTIVAÇÕES PEROLADAS

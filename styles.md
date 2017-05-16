@@ -1,11 +1,4 @@
 ---
-title: Theme Styles
-<<<<<<< HEAD
-hidden: true
-=======
-published: false
-layout: page
->>>>>>> origin/master
 ---
 
 ## Full Style Test
