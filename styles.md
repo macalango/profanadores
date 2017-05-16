@@ -1,5 +1,6 @@
 ---
 title: Theme Styles
+published: false
 layout: page
 ---
 
