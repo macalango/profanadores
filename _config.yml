@@ -1,8 +1,9 @@
 # Plugins
 gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
+plugins: ['jekyll-admin']
 
 # Dependencies
-highlighter:      rouge
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty

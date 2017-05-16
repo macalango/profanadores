@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Theme Styles
+hidden: true
 ---
 
 ## Full Style Test
