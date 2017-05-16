@@ -1,24 +1,25 @@
-# Plugins
-gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
-
-# Dependencies
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            profanadores
-tagline:          registro de desenvolvimento
-description:      "um metroidvania livremente baseado na obra de H. P. Lovecraft"
-url:              https://macalango.github.io/
-baseurl:          /profanadores/
-
+---
+title: profanadores
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+gems:
+- jekyll-paginate
+- jekyll-gist
+- jekyll-github-metadata
+highlighter: rouge
+permalink: pretty
+tagline: registro de desenvolvimento
+description: um metroidvania livremente baseado na obra de H. P. Lovecraft
+url: https://macalango.github.io/
+baseurl: "/profanadores/"
 author:
-  name:           'Laureano Macalango'
-  url:            https://remote.com/macalango
-
-paginate:         5
-
-# Custom vars
-version:          1.0.1
+  name: Laureano Macalango
+  url: https://remote.com/macalango
+paginate: 5
+version: 1.0.1
