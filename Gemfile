@@ -7,3 +7,5 @@ gem "pygments.rb"
 gem "redcarpet"
 gem 'jekyll-github-metadata'
 gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-admin'
+gem 'tzinfo-data'
