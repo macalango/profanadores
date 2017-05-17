@@ -12,6 +12,8 @@ gems:
 - jekyll-paginate
 - jekyll-gist
 - jekyll-github-metadata
+- jekyll-admin
+plugins_dir: ['jekyll-admin']
 highlighter: rouge
 permalink: pretty
 tagline: registro de desenvolvimento
