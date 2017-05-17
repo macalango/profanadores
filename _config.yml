@@ -1,14 +1,3 @@
----
-title: profanadores
-timezone: UTC
-collections:
-  posts:
-    title: Postagens
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-=======
 # Plugins
 gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 
@@ -21,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            profanadores
 tagline:          registro de desenvolvimento
-description:      "Metroidvania livremente baseado na obra de H. P. Lovecraft"
+description:      "Um Metroidvania livremente baseado na obra de H. P. Lovecraft"
 url:              https://macalango.github.io/
 baseurl:          /profanadores/
 

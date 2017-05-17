@@ -6,6 +6,7 @@ categories:
 tags:
 - mercado
 - mídia
+- indústria
 comments: true
 layout: post
 ---
