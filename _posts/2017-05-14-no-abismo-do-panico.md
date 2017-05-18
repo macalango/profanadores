@@ -11,10 +11,10 @@ comments: true
 layout: post
 ---
 
+<img title="Abismo do Pânico" src="http://i.imgur.com/P8iTgLz.jpg" alt="Abismo do Pânico" />
 ### A SOTURNA CAIXA DE PÍFIAS MOTIVAÇÕES PEROLADAS
 
 ---
-
 <div class="posts">
 <div class="post">
 <p>Eu realmente n&atilde;o fa&ccedil;o a m&iacute;nima ideia do que eu t&ocirc; fazendo.</p>

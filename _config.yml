@@ -24,5 +24,5 @@ baseurl: "/profanadores/"
 author:
   name: Laureano Macalango
   url: https://remote.com/macalango
-paginate: 5
+paginate: 10
 version: 1.0.1
