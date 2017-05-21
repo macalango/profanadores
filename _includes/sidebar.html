@@ -1,22 +1,15 @@
-<div class="sidebar">
+ <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
+<img src="http://i.imgur.com/pGHWgGe.png" title="Profanadores" href={{site.baseurl}} target="_blank"/>
       <p class="lead">{{ site.description }}</p>
     </div>
-
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Principal</a>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,9 +18,13 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
     </nav>
-
+    {% for icon in social-icons %}
+  <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
+    {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
+    <span class="social-icon--title visuallyHidden">{{ icon.title }}</span>
+  </a>
+{% endfor %}
     <p>&copy; Macalango.com {{ site.time | date: '%Y' }}. Todos os direitos reservados.</p>
   </div>
 </div>
