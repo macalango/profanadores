@@ -1,6 +1,6 @@
 ---
 title: No abismo do Pânico
-date: 2017-05-14 12:13:00 -0300
+date: 2017-05-14 12:13:00 -03:00
 categories:
 - ddb
 tags:

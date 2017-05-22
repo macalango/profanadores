@@ -1,6 +1,6 @@
 ---
 title: Caixa de Ferramentas
-date: 2017-05-17 13:22:01 -0300
+date: 2017-05-17 13:22:01 -03:00
 categories:
 - tools
 tags:
@@ -9,7 +9,6 @@ tags:
 comments: true
 layout: post
 ---
-
 
 <img title="Caixa de Ferramentas" src="http://www.pngmart.com/files/3/Toolbox-PNG-Picture.png" alt="toolbox" align="center" />
 
