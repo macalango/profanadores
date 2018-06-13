@@ -1,4 +1,4 @@
-https://macalango.github.io/profanadores/
+https://tropicaos.github.io/profanadores/
 profaners devlog
 
 O processo de produção de PROFANADORES e os assuntos acerca disso.
